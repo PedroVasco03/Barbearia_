@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{21170C46-34D1-4676-8156-110147113A30}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>S.G_Barbearia</RootNamespace>
+    <AssemblyName>S.G Barbearia</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu.Core, Version=1.11.5.1, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9" />
+    <Reference Include="Bunifu.UI.WinForms.BunifuButton">
+      <HintPath>..\..\..\..\Documents\Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuLabel">
+      <HintPath>..\..\..\..\Documents\Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu.UI.WinForms.BunifuLabel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPages">
+      <HintPath>..\..\..\..\Documents\Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu.UI.WinForms.BunifuPages.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPictureBox">
+      <HintPath>..\..\..\..\Documents\Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu.UI.WinForms.BunifuPictureBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuRadioButton">
+      <HintPath>..\..\..\..\Documents\Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu.UI.WinForms.BunifuRadioButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuScrollBar">
+      <HintPath>..\..\..\..\Documents\Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu.UI.WinForms.BunifuScrollBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuUserControl">
+      <HintPath>..\..\..\..\Documents\Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu.UI.WinForms.BunifuUserControl.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\Documents\Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\..\..\Documents\Guna.UI-Framework-Lib-master\Guna.UI-Framework-Lib-master\Guna.UI WinForms\.net 4.0\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MySql.Data, Version=8.0.28.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Downloads\Pedro Vasco\Grupo\LojaVirtual-2-alterações\Loja Virtual\Loja Virtual\bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="conexao.cs" />
+    <Compile Include="corte.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="corte.Designer.cs">
+      <DependentUpon>corte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="corte1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="corte1.Designer.cs">
+      <DependentUpon>corte1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="corte11.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="corte11.Designer.cs">
+      <DependentUpon>corte11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="corte12.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="corte12.Designer.cs">
+      <DependentUpon>corte12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="corte2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="corte2.Designer.cs">
+      <DependentUpon>corte2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="corte3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="corte3.Designer.cs">
+      <DependentUpon>corte3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="corte4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="corte4.Designer.cs">
+      <DependentUpon>corte4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="corte5.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="corte5.Designer.cs">
+      <DependentUpon>corte5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="corte6.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="corte6.Designer.cs">
+      <DependentUpon>corte6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="corte7.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="corte7.Designer.cs">
+      <DependentUpon>corte7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="corte8.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="corte8.Designer.cs">
+      <DependentUpon>corte8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="corte9.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="corte9.Designer.cs">
+      <DependentUpon>corte9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cote10.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="cote10.Designer.cs">
+      <DependentUpon>cote10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_CriarConta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_CriarConta.designer.cs">
+      <DependentUpon>frm_CriarConta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Login.designer.cs">
+      <DependentUpon>frm_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="corte.resx">
+      <DependentUpon>corte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="corte1.resx">
+      <DependentUpon>corte1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="corte11.resx">
+      <DependentUpon>corte11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="corte12.resx">
+      <DependentUpon>corte12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="corte2.resx">
+      <DependentUpon>corte2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="corte3.resx">
+      <DependentUpon>corte3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="corte4.resx">
+      <DependentUpon>corte4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="corte5.resx">
+      <DependentUpon>corte5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="corte6.resx">
+      <DependentUpon>corte6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="corte7.resx">
+      <DependentUpon>corte7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="corte8.resx">
+      <DependentUpon>corte8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="corte9.resx">
+      <DependentUpon>corte9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cote10.resx">
+      <DependentUpon>cote10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_CriarConta.resx">
+      <DependentUpon>frm_CriarConta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Login.resx">
+      <DependentUpon>frm_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\705d85a4ad8d48dbfc4994f0cfc7082e-removebg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-bread-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7665eb68efa1aaa5bb6d84c2011f5042-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5f87a1c57c20013f7d55c6f26a30b84c-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\763204c0032595a62adefb45287eb1d7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fc2bca18b92440b227a19910ddbd7acc-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b5e82a18c77948ddafc377072a4b6f98-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\899bc27ceb8f79b4fc97201fbef09a83-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\97ee7f6f24b10732548117239e4a3b53-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\125db2d12154d32bb19d1d2d54473838.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\125db2d12154d32bb19d1d2d54473838-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nathan-fertig-5EIW3DDX6dw-unsplash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ahmad-ebadi-S3GxGKyGPWM-unsplash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a951813c7bdbda55a5359e5fa5cd38f2-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\43b77364a3758bd46ffa799141796574-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="fotos\user_25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="fotos\password_25px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="fotos\42476-register.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\barber-barberia.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

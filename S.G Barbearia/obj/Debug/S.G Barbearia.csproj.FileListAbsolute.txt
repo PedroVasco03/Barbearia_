@@ -1,0 +1,55 @@
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\S.G Barbearia.exe.config
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\S.G Barbearia.exe
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\S.G Barbearia.pdb
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\obj\Debug\S.G_Barbearia.Form1.resources
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\obj\Debug\S.G_Barbearia.Properties.Resources.resources
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\obj\Debug\S.G Barbearia.csproj.GenerateResource.cache
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\obj\Debug\S.G Barbearia.csproj.CoreCompileInputs.cache
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\obj\Debug\S.G Barbearia.exe
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\obj\Debug\S.G Barbearia.pdb
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\Guna.UI.dll
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\obj\Debug\S.G Barbearia.csproj.CopyComplete
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\obj\Debug\S.G_Barbearia.corte1.resources
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\obj\Debug\S.G Barbearia.csproj.AssemblyReference.cache
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\obj\Debug\S.G_Barbearia.corte.resources
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\obj\Debug\S.G_Barbearia.corte2.resources
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\obj\Debug\S.G_Barbearia.corte4.resources
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\obj\Debug\S.G_Barbearia.corte3.resources
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\obj\Debug\S.G_Barbearia.corte5.resources
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\obj\Debug\S.G_Barbearia.corte6.resources
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\obj\Debug\S.G_Barbearia.corte7.resources
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\obj\Debug\S.G_Barbearia.corte8.resources
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\obj\Debug\S.G_Barbearia.corte11.resources
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\obj\Debug\S.G_Barbearia.corte12.resources
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\obj\Debug\S.G_Barbearia.corte9.resources
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\obj\Debug\S.G_Barbearia.cote10.resources
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\obj\Debug\S.G Barbearia.exe.config
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\obj\Debug\S.G_Barbearia.frm_CriarConta.resources
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\obj\Debug\S.G_Barbearia.frm_Login.resources
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\MySql.Data.dll
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\Google.Protobuf.dll
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\ZstdNet.dll
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\System.Memory.dll
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\System.Buffers.dll
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Vasqueibo\Desktop\Barbearia\S.G Barbearia\S.G Barbearia\bin\Debug\MySql.Data.xml
